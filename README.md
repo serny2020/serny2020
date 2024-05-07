@@ -11,7 +11,7 @@
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2024 Goals: Learn Cloud on AWS and Machine Learning.
-- ⚡ Fun fact: I know binary bits better than bacon bits.🤣s
+- ⚡ Fun fact: I am working nuts!
 
 ---
 
